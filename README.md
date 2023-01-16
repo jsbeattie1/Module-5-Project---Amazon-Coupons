@@ -1,6 +1,6 @@
 # Module-5-Project---Amazon-Coupons
 
-In this project, I use survey data (collected via Amazon Mechanical Turk) to assess a potential instant digital coupon program. In particular, I focus on "carry out and take away" coupons and attempt to determine what factors, if any, predict when that sort of coupon will be accepted. The full report can be found here:
+In this project, I use survey data (collected via Amazon Mechanical Turk) to assess a potential instant digital coupon program. In particular, I focus on "carry out and take away" coupons and attempt to determine what factors, if any, predict when that sort of coupon will be accepted. The full report can be found here: https://github.com/jsbeattie1/Module-5-Project---Amazon-Coupons/blob/main/Module%205%20Project%20-%20Amazon%20Coupons.ipynb
 
 The primary conclusion of this investigation is quite simple: this sort of coupon is very popular, and that popularity is very widespread. People of all ages, incomes, genders, etc. readily accept this sort of coupon, and it is accepted at high rates regardless of time of day, direction of travel, or the coupon's expiration period. In short, a high rate of acceptance (~74%) is virtually guaranteed for this sort of coupon.
 
