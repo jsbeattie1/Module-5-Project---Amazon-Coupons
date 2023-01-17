@@ -1,6 +1,6 @@
 # Module-5-Project---Amazon-Coupons
 
-In this project, I use survey data (collected via Amazon Mechanical Turk) to assess a potential instant digital coupon program. In particular, I focus on "carry out and take away" coupons and attempt to determine what factors, if any, predict when that sort of coupon will be accepted. The full report can be found here: https://github.com/jsbeattie1/Module-5-Project---Amazon-Coupons/blob/main/Module%205%20Project%20-%20Amazon%20Coupons.ipynb
+In this project, I use survey data (collected via Amazon Mechanical Turk) to assess a potential instant digital coupon program. In particular, I focus on "carry out and take away" coupons and attempt to determine what factors, if any, predict when that sort of coupon will be accepted by the recipient. The full report can be found here: https://github.com/jsbeattie1/Module-5-Project---Amazon-Coupons/blob/main/Module%205%20Project%20-%20Amazon%20Coupons.ipynb
 
 The primary conclusion of this investigation is quite simple: this sort of coupon is very popular, and that popularity is very widespread. People of all ages, incomes, genders, etc. readily accept this sort of coupon, and it is accepted at high rates regardless of time of day, direction of travel, or the coupon's expiration period. In short, a high rate of acceptance (~74%) is virtually guaranteed for this sort of coupon.
 
@@ -12,6 +12,6 @@ More specifically, my recommendations would be:
 
 If these two recommendations are followed, the acceptance rate should consistenly be 78% or more.
 
-In addition, it may be worth targeting males and/or people with low to low-middle incomes (roughly $12,500 - $62,500) - I'd recommend further investigation in each case. As for the other observed associations (involving direction of travel, general carry-out behavior, and age), I'm inclined to think that they are either not robust enough and/or the effects are likely to be too small for there to be much value in pursuing them further. 
+In addition, it may be worth targeting males and/or people with low to low-middle incomes (roughly $12,500 - $62,500) - I'd recommend further investigation in both cases. As for the other observed associations (involving direction of travel, general carry-out behavior, and age), I'm inclined to think that they are not robust enough and/or that the effects are likely to be too small for there to be much value in pursuing them further. 
 
 
